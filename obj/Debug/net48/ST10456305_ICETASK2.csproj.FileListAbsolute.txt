@@ -1,0 +1,10 @@
+C:\Users\chris\OneDrive\Desktop\Uni Stuff\Prog6221\ST10456305_ICETASK2\bin\Debug\net48\ST10456305_ICETASK2.exe.config
+C:\Users\chris\OneDrive\Desktop\Uni Stuff\Prog6221\ST10456305_ICETASK2\bin\Debug\net48\ST10456305_ICETASK2.exe
+C:\Users\chris\OneDrive\Desktop\Uni Stuff\Prog6221\ST10456305_ICETASK2\bin\Debug\net48\ST10456305_ICETASK2.pdb
+C:\Users\chris\OneDrive\Desktop\Uni Stuff\Prog6221\ST10456305_ICETASK2\obj\Debug\net48\ST10456305_ICETASK2.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Uni Stuff\Prog6221\ST10456305_ICETASK2\obj\Debug\net48\ST10456305_ICETASK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\Uni Stuff\Prog6221\ST10456305_ICETASK2\obj\Debug\net48\ST10456305_ICETASK2.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\Uni Stuff\Prog6221\ST10456305_ICETASK2\obj\Debug\net48\ST10456305_ICETASK2.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Uni Stuff\Prog6221\ST10456305_ICETASK2\obj\Debug\net48\ST10456305_ICETASK2.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Uni Stuff\Prog6221\ST10456305_ICETASK2\obj\Debug\net48\ST10456305_ICETASK2.exe
+C:\Users\chris\OneDrive\Desktop\Uni Stuff\Prog6221\ST10456305_ICETASK2\obj\Debug\net48\ST10456305_ICETASK2.pdb
